@@ -43,8 +43,8 @@ Takım U-37
 # Sprint 1
 
 - **Sprint Notları**: 
-Assetlerin projeye aktarılması: Bu task, oyunun grafik, ses ve diğer içeriklerini oluşturan assetlerin, projenin kullanacağı şekilde düzenlenmesini ve entegrasyonunu içerir. Bu, karakter modelleri, dünya nesneleri, efektler, arka plan müziği vb. gibi öğeleri içerebilir.
-
+Assetlerin projeye aktarılması:
+Bu task, oyunun grafik, ses ve diğer içeriklerini oluşturan assetlerin, projenin kullanacağı şekilde düzenlenmesini ve entegrasyonunu içerir. 
 Player 40: Bu task, oyuncu karakterinin tasarlanması ve programlanmasıyla ilgilidir. Oyuncu karakterinin animasyonları, kontrolleri, yetenekleri ve diğer özellikleri bu task kapsamında oluşturulur.
 
 Elemental Monk 25 (bardent'tan state machine): Bu task, Elemental Monk adlı bir karakterin tasarımının ve programlanmasının yapılmasını içerir. Bardent'tan state machine ile birlikte çalışacak şekilde karakterin animasyonları, hareketleri ve yetenekleri oluşturulur.
