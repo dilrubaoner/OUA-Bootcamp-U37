@@ -66,7 +66,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 2]
 <img width="907" alt="Ekran Resmi 2023-06-18 12 06 28" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/d81dee91-8a95-4def-8a48-03f12f0c9a7b">
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**:
  Bu sprint verilen taskları kendi projelerimizde zaman yönetimine uygun olarak final , büt tarihlerini çakışması gibi ) deneyip Sprint 2'de ortak projeye yüklemeye karar verdik.
 - **Sprint Review**: 
 Alınan kararlar: Bu sprint tanışma ve kendi zamanımıza uygun olarak verilen taskleri ortak projede değil kendi projemizde denemeye karar verdik. Projeye 2.Sprintte yoğunlaşıyor olacağız.
