@@ -44,10 +44,14 @@ Takım U-37
 
 - **Sprint Notları**: 
 Assetlerin projeye aktarılması: Bu task, oyunun grafik, ses ve diğer içeriklerini oluşturan assetlerin, projenin kullanacağı şekilde düzenlenmesini ve entegrasyonunu içerir. Bu, karakter modelleri, dünya nesneleri, efektler, arka plan müziği vb. gibi öğeleri içerebilir.
--Player 40: Bu task, oyuncu karakterinin tasarlanması ve programlanmasıyla ilgilidir. Oyuncu karakterinin animasyonları, kontrolleri, yetenekleri ve diğer özellikleri bu task kapsamında oluşturulur.
--Elemental Monk 25 (bardent'tan state machine): Bu task, Elemental Monk adlı bir karakterin tasarımının ve programlanmasının yapılmasını içerir. Bardent'tan state machine ile birlikte çalışacak şekilde karakterin animasyonları, hareketleri ve yetenekleri oluşturulur.
--GothicVania Town boss ile savaş mekanı 10: Bu task, GothicVania adlı bir kasabada geçen ve bir boss ile savaş mekanını içeren bir bölümün tasarlanması ve programlanmasıyla ilgilidir. Boss karakterinin animasyonları, saldırıları, zorluk seviyesi ve mekanın tasarımı bu task kapsamında gerçekleştirilir.
--En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en az bir düşman karakterinin tasarımını ve programlamasını içerir. Bardent'tan state machine ile uyumlu bir şekilde düşmanın animasyonları, hareketleri, saldırıları ve davranışları oluşturulur.
+
+Player 40: Bu task, oyuncu karakterinin tasarlanması ve programlanmasıyla ilgilidir. Oyuncu karakterinin animasyonları, kontrolleri, yetenekleri ve diğer özellikleri bu task kapsamında oluşturulur.
+
+Elemental Monk 25 (bardent'tan state machine): Bu task, Elemental Monk adlı bir karakterin tasarımının ve programlanmasının yapılmasını içerir. Bardent'tan state machine ile birlikte çalışacak şekilde karakterin animasyonları, hareketleri ve yetenekleri oluşturulur.
+
+GothicVania Town boss ile savaş mekanı 10: Bu task, GothicVania adlı bir kasabada geçen ve bir boss ile savaş mekanını içeren bir bölümün tasarlanması ve programlanmasıyla ilgilidir. Boss karakterinin animasyonları, saldırıları, zorluk seviyesi ve mekanın tasarımı bu task kapsamında gerçekleştirilir.
+
+En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en az bir düşman karakterinin tasarımını ve programlamasını içerir. Bardent'tan state machine ile uyumlu bir şekilde düşmanın animasyonları, hareketleri, saldırıları ve davranışları oluşturulur.
 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 85 Puan
