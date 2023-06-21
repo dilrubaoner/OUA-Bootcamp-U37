@@ -57,6 +57,10 @@ En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 85 Puan
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+     
+
+Uploading Ekran Kaydı 2023-06-21 18.40.58.mov…
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir.
 - ![Uploading Ekran Resmi 2023-06-21 18.21.11.png…]()
