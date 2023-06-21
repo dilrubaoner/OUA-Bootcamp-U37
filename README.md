@@ -1,4 +1,4 @@
-<img width="1364" alt="Ekran Resmi 2023-06-21 18 21 11" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7e7f5385-980b-4144-8ed8-561523f0879b"># **Takım İsmi**
+# **Takım İsmi**
 
 Takım U-37
 
@@ -62,6 +62,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - ![Uploading Ekran Resmi 2023-06-21 18.21.11.png…]()
 - <img width="1348" alt="Ekran Resmi 2023-06-21 18 20 27" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/af28868d-7969-473b-b163-5d9fc25b50a5">
 ![IMG_4038](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/c44a29de-cef9-4e67-aea3-2481add3b0a6)
+<img width="1364" alt="Ekran Resmi 2023-06-21 18 21 11" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7e7f5385-980b-4144-8ed8-561523f0879b">
 
 
 - **Sprint board update**: Sprint board screenshotları: 
