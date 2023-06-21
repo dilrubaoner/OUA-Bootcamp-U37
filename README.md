@@ -65,11 +65,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 <img width="1364" alt="Ekran Resmi 2023-06-21 18 21 11" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7e7f5385-980b-4144-8ed8-561523f0879b">
 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
-<img width="1321" alt="Ekran Resmi 2023-06-18 12 05 38" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/ffccf3ac-4c8f-4a17-acb4-00d40c934e46">
-![Backlog 2]
-<img width="907" alt="Ekran Resmi 2023-06-18 12 06 28" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/d81dee91-8a95-4def-8a48-03f12f0c9a7b">
+- **Sprint board update**: Sprint board screenshotları:
+- <img width="1263" alt="Ekran Resmi 2023-06-21 18 38 18" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/6eea9e6f-2cc2-4b99-bb0f-b208848f116d">
+<img width="793" alt="Ekran Resmi 2023-06-21 18 36 55" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/649c2f9a-9467-470b-b6f1-674014d32d12">
+<img width="643" alt="Ekran Resmi 2023-06-21 18 37 57" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/42686e74-a89f-4744-8813-9389d056d551">
+
+
+
 
 - **Ürün Durumu**:
  Bu sprint verilen taskları kendi projelerimizde zaman yönetimine uygun olarak final , büt tarihlerini çakışması gibi ) deneyip Sprint 2'de ortak projeye yüklemeye karar verdik.
