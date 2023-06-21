@@ -82,7 +82,7 @@ Alınan kararlar: Bu sprint tanışma ve kendi zamanımıza uygun olarak verilen
 
 - **Sprint Retrospective:**
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  
+  -Zamansal uygunluk durumundaki gözden kaçmalar en aza indirilerek daha aktif hatırlatılmalı.
 
 
 -**Diğer Notlar**:
