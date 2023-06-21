@@ -1,4 +1,4 @@
-# **Takım İsmi**
+<img width="1364" alt="Ekran Resmi 2023-06-21 18 21 11" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7e7f5385-980b-4144-8ed8-561523f0879b"># **Takım İsmi**
 
 Takım U-37
 
@@ -59,6 +59,10 @@ En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir.
+- ![Uploading Ekran Resmi 2023-06-21 18.21.11.png…]()
+- <img width="1348" alt="Ekran Resmi 2023-06-21 18 20 27" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/af28868d-7969-473b-b163-5d9fc25b50a5">
+![IMG_4038](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/c44a29de-cef9-4e67-aea3-2481add3b0a6)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]
@@ -68,12 +72,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**:
  Bu sprint verilen taskları kendi projelerimizde zaman yönetimine uygun olarak final , büt tarihlerini çakışması gibi ) deneyip Sprint 2'de ortak projeye yüklemeye karar verdik.
+<img width="1436" alt="Ekran Resmi 2023-06-21 18 23 31" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/98cf353d-eaad-41da-bfd9-095ecd77be7a">
+
 - **Sprint Review**: 
 Alınan kararlar: Bu sprint tanışma ve kendi zamanımıza uygun olarak verilen taskleri ortak projede değil kendi projemizde denemeye karar verdik. Projeye 2.Sprintte yoğunlaşıyor olacağız.
 
 - **Sprint Retrospective:**
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   
+
 
 -**Diğer Notlar**:
 - N/A
