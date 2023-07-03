@@ -92,8 +92,34 @@ Alınan kararlar: Bu sprint tanışma ve kendi zamanımıza uygun olarak verilen
 
 # Sprint 2
 
+Sprint Notları: Bu sprint oyun içeriğiyle ilgili kararlar değişti ve sadeleştirilmeye gidildi. İlk spirintte yapılanların aynıları tekrar yapılacak.
+Elemental Monk 25 (bardent'tan state machine): Bu task, Elemental Monk adlı bir karakterin tasarımının ve programlanmasının yapılmasını içerir. Bardent'tan state machine ile birlikte çalışacak şekilde karakterin animasyonları, hareketleri ve yetenekleri oluşturulur.
 
----
+GothicVania Town boss ile savaş mekanı 10: Bu task, GothicVania adlı bir kasabada geçen ve bir boss ile savaş mekanını içeren bir bölümün tasarlanması ve programlanmasıyla ilgilidir. Boss karakterinin animasyonları, saldırıları, zorluk seviyesi ve mekanın tasarımı bu task kapsamında gerçekleştirilir.
+
+En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en az bir düşman karakterinin tasarımını ve programlamasını içerir. Bardent'tan state machine ile uyumlu bir şekilde düşmanın animasyonları, hareketleri, saldırıları ve davranışları oluşturulur.
+
+Sprint içinde tamamlanması tahmin edilen puan: 85 Puan
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+![IMG_770570293D71-1](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/0d8bf72a-404c-4f8a-a27f-7c9958715e97)
+
+
+Sprint board update: Sprint board screenshotları:
+![Ekran Resmi 2023-07-03 18 43 02](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/da9d146d-6da7-401c-9250-a5b92ffcf9f0)
+![Ekran Resmi 2023-07-03 18 42 45](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/6e8c2f4f-54f9-4f7c-8853-e71b11f67fe7)
+![Ekran Resmi 2023-07-03 18 42 32](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/2069f748-9e92-4131-9739-cd88a629f228)
+
+
+Ürün Durumu: Sprint 1'de alınan kararları sadeleştirdik.
+Ekran Resmi 2023-06-21 18 23 31
+![Ekran Resmi 2023-07-03 18 45 53](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/2fe1f408-a8ef-4398-bb34-28fa8c7dd618)
+
+Sprint Review: Alınan kararlar: Bu sprint tanışma ve kendi zamanımıza uygun olarak verilen taskleri ortak projede değil kendi projemizde denemeye karar verdik. Projeye 2.Sprintte yoğunlaşıyor olacağız.
+
+Sprint Retrospective:
+ -Zamansal uygunluk durumundaki gözden kaçmalar en aza indirilerek daha aktif hatırlatılmalı.
 
 # Sprint 3
 
