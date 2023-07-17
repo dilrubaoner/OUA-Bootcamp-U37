@@ -128,7 +128,7 @@ Elemental Monk 25 (bardent'tan state machine): Bu task, Elemental Monk adlı bir
 GothicVania Town boss ile savaş mekanı 10: Bu task, GothicVania adlı bir kasabada geçen ve bir boss ile savaş mekanını içeren bir bölümün tasarlanması ve programlanmasıyla ilgilidir. Boss karakterinin animasyonları, saldırıları, zorluk seviyesi ve mekanın tasarımı bu task kapsamında gerçekleştirilir.
 
 En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en az bir düşman karakterinin tasarımını ve programlamasını içerir. Bardent'tan state machine ile uyumlu bir şekilde düşmanın animasyonları, hareketleri, saldırıları ve davranışları oluşturulur.
-![455e6f30-0310-4ff2-b098-fe4546c7e4b9](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7f0879bc-8757-40bd-87cc-450aeb03fbda)
+
 
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
@@ -144,6 +144,12 @@ Sprint board update: Sprint board screenshotları:
 
 
 Ürün Durumu: Ürün Bootcamp final durumuna hazır hale getirildi.
+![455e6f30-0310-4ff2-b098-fe4546c7e4b9](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7f0879bc-8757-40bd-87cc-450aeb03fbda)
+
+![455e6f30-0310-4ff2-b098-fe4546c7e4b9](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/b22e8424-aeb9-4ce9-ba98-5da023f618a5)
+
+![c02b48a8-8578-4e34-a9be-9f86ab95f5bb](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/d2f8648a-fa00-4154-9d08-e97770e940b9)
+
 
 Sprint Review: Bu sprintte belli başlı görevleri zamana karşı yarışarak bitirmek durumundaydık.
 
