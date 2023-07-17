@@ -144,7 +144,8 @@ Sprint board update: Sprint board screenshotları:
 
 
 Ürün Durumu: Ürün Bootcamp final durumuna hazır hale getirildi.
-![455e6f30-0310-4ff2-b098-fe4546c7e4b9](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7f0879bc-8757-40bd-87cc-450aeb03fbda)
+
+![c02b48a8-8578-4e34-a9be-9f86ab95f5bb](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/235ce329-e65a-4a23-bc5d-b690aceab643)
 
 ![455e6f30-0310-4ff2-b098-fe4546c7e4b9](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/b22e8424-aeb9-4ce9-ba98-5da023f618a5)
 
