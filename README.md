@@ -1,4 +1,4 @@
-<img width="1215" alt="Ekran Resmi 2023-07-18 00 03 22" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/c1087b62-8902-4f0b-b5c0-8fb605290863"># **Takım İsmi**
+ **Takım İsmi**
 
 Takım U-37
 
