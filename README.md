@@ -141,7 +141,6 @@ Sprint board update: Sprint board screenshotları:
 
 <img width="1435" alt="Ekran Resmi 2023-07-18 00 02 59" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/cf88075c-47b2-480a-a3f0-4c1dfc9a6b3e">
 
-![Ekran Resmi 2023-07-16 19 24 53](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/f9b01af3-f4da-48df-a506-f355ac2a5a69)
 
 
 Ürün Durumu: Ürün Bootcamp final durumuna hazır hale getirildi.
