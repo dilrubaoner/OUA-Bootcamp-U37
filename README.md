@@ -1,4 +1,4 @@
-# **Takım İsmi**
+<img width="1215" alt="Ekran Resmi 2023-07-18 00 03 22" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/c1087b62-8902-4f0b-b5c0-8fb605290863"># **Takım İsmi**
 
 Takım U-37
 
@@ -122,5 +122,32 @@ Sprint Retrospective:
  -Zamansal uygunluk durumundaki gözden kaçmalar en aza indirilerek daha aktif hatırlatılmalı.
 
 # Sprint 3
+Sprint Notları: Bu sprint oyun içeriğiyle ilgili kararlar değişti ve sadeleştirilmeye gidildi. İlk spirintte yapılanların aynıları tekrar yapılacak.
+Elemental Monk 25 (bardent'tan state machine): Bu task, Elemental Monk adlı bir karakterin tasarımının ve programlanmasının yapılmasını içerir. Bardent'tan state machine ile birlikte çalışacak şekilde karakterin animasyonları, hareketleri ve yetenekleri oluşturulur.
 
----
+GothicVania Town boss ile savaş mekanı 10: Bu task, GothicVania adlı bir kasabada geçen ve bir boss ile savaş mekanını içeren bir bölümün tasarlanması ve programlanmasıyla ilgilidir. Boss karakterinin animasyonları, saldırıları, zorluk seviyesi ve mekanın tasarımı bu task kapsamında gerçekleştirilir.
+
+En az 1 düşman (referans -> bardent'tan state machine) 10: Bu task, oyunda en az bir düşman karakterinin tasarımını ve programlamasını içerir. Bardent'tan state machine ile uyumlu bir şekilde düşmanın animasyonları, hareketleri, saldırıları ve davranışları oluşturulur.
+![455e6f30-0310-4ff2-b098-fe4546c7e4b9](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/7f0879bc-8757-40bd-87cc-450aeb03fbda)
+
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+
+![IMG_4805](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/0a5c4769-aaaa-4098-94b1-d514ebfef29e)
+
+
+Sprint board update: Sprint board screenshotları:
+<img width="1215" alt="Ekran Resmi 2023-07-18 00 03 22" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/2f1ff142-4f3c-4e42-b5f9-1a13e3ed5172">
+
+<img width="1435" alt="Ekran Resmi 2023-07-18 00 02 59" src="https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/cf88075c-47b2-480a-a3f0-4c1dfc9a6b3e">
+
+![Ekran Resmi 2023-07-16 19 24 53](https://github.com/dilrubaoner/OUA-Bootcamp-U37/assets/120575389/f9b01af3-f4da-48df-a506-f355ac2a5a69)
+
+
+Ürün Durumu: Ürün Bootcamp final durumuna hazır hale getirildi.
+
+Sprint Review: Bu sprintte belli başlı görevleri zamana karşı yarışarak bitirmek durumundaydık.
+
+Sprint Retrospective:
+ Zaman ve grubun uygunluk durumlarına başka projelerde dikkat edilmesi gerektiğine dair deneyim edindik. Güzel arkadaşlıklar kurduk. Biraz sancılı bir süreç olsa da çok şey öğrendik.
+
